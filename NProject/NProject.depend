@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1663851562 source:d:\funs\nproject\2.c
+	<stdio.h>
+
+1663851605 source:d:\funs\nproject\4.c
+	<stdio.h>
+	"main.h"
+
+1663851413 d:\funs\nproject\main.h
+
+1663851468 source:d:\funs\nproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663851655 source:d:\funs\nproject\3.c
+	<stdio.h>
+
